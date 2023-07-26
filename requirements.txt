@@ -1,0 +1,8 @@
+python==3.11.4
+matplotlib==3.7.1
+scikit-learn==1.3.0
+plotly==5.15.0
+matminer==0.9.0
+pandas==2.0.3
+numpy==1.25.0
+conda==23.3.1
