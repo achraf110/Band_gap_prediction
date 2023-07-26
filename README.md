@@ -61,10 +61,6 @@ We present the results of our band gap predictions in an [interactive manner](ht
 https://github.com/achraf110/Band_gap_prediction/assets/59840474/15210079-f297-4d1f-9c5a-cc6234c841cc
 
 
-## Contributing
-
-We welcome contributions from the community. If you are interested in contributing to this project, please follow the guidelines outlined in the CONTRIBUTING.md file.
-
 ## License
 
 GNU General Public License v3.0
