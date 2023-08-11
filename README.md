@@ -31,9 +31,10 @@ To set up the project environment, follow these steps:
 2. Create a virtual environment **(optional but recommended)**:
 
      ```
-     conda create -n myenv py3
-     conda activate py3
-     ```
+     conda create -n myenv 
+     conda activate myenv
+    ```
+     replace `myenv` with the name of your env of choice 
 4. Install the required dependencies :
 
    ```
